@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/REACT-Portfolio/static/css/main.078e1fce.css",
-    "main.js": "/REACT-Portfolio/static/js/main.735f7ea3.js",
+    "main.js": "/REACT-Portfolio/static/js/main.ada72dfa.js",
     "static/js/787.a2cb61a6.chunk.js": "/REACT-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/My Dog Adoption.png": "/REACT-Portfolio/static/media/My Dog Adoption.1dd72ef78b106ee1f3c2.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/REACT-Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -16,11 +16,11 @@
     "static/media/Express Note Taker.png": "/REACT-Portfolio/static/media/Express Note Taker.7de87694f27732a4515e.png",
     "index.html": "/REACT-Portfolio/index.html",
     "main.078e1fce.css.map": "/REACT-Portfolio/static/css/main.078e1fce.css.map",
-    "main.735f7ea3.js.map": "/REACT-Portfolio/static/js/main.735f7ea3.js.map",
+    "main.ada72dfa.js.map": "/REACT-Portfolio/static/js/main.ada72dfa.js.map",
     "787.a2cb61a6.chunk.js.map": "/REACT-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.078e1fce.css",
-    "static/js/main.735f7ea3.js"
+    "static/js/main.ada72dfa.js"
   ]
 }
