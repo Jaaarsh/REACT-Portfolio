@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.895ec2b1.css",
-    "main.js": "/static/js/main.ce7b473e.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/My Dog Adoption.png": "/static/media/My Dog Adoption.1dd72ef78b106ee1f3c2.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/Sigma Cleaning.png": "/static/media/Sigma Cleaning.15e326771ddfbabc6f5b.png",
-    "static/media/README Generator.png": "/static/media/README Generator.9dfdd44635c023b22baf.png",
-    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/Work Day Scheduler.png": "/static/media/Work Day Scheduler.e385ada65ae6af2687a8.png",
-    "static/media/Password Generator.png": "/static/media/Password Generator.b14388c572e193c2a7bf.png",
-    "static/media/Express Note Taker.png": "/static/media/Express Note Taker.7de87694f27732a4515e.png",
-    "index.html": "/index.html",
-    "main.895ec2b1.css.map": "/static/css/main.895ec2b1.css.map",
-    "main.ce7b473e.js.map": "/static/js/main.ce7b473e.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/REACT-Portfolio/static/css/main.078e1fce.css",
+    "main.js": "/REACT-Portfolio/static/js/main.735f7ea3.js",
+    "static/js/787.a2cb61a6.chunk.js": "/REACT-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/My Dog Adoption.png": "/REACT-Portfolio/static/media/My Dog Adoption.1dd72ef78b106ee1f3c2.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/REACT-Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Sigma Cleaning.png": "/REACT-Portfolio/static/media/Sigma Cleaning.15e326771ddfbabc6f5b.png",
+    "static/media/README Generator.png": "/REACT-Portfolio/static/media/README Generator.9dfdd44635c023b22baf.png",
+    "static/media/fontawesome-webfont.eot": "/REACT-Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/REACT-Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/REACT-Portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/REACT-Portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Work Day Scheduler.png": "/REACT-Portfolio/static/media/Work Day Scheduler.e385ada65ae6af2687a8.png",
+    "static/media/Password Generator.png": "/REACT-Portfolio/static/media/Password Generator.b14388c572e193c2a7bf.png",
+    "static/media/Express Note Taker.png": "/REACT-Portfolio/static/media/Express Note Taker.7de87694f27732a4515e.png",
+    "index.html": "/REACT-Portfolio/index.html",
+    "main.078e1fce.css.map": "/REACT-Portfolio/static/css/main.078e1fce.css.map",
+    "main.735f7ea3.js.map": "/REACT-Portfolio/static/js/main.735f7ea3.js.map",
+    "787.a2cb61a6.chunk.js.map": "/REACT-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.895ec2b1.css",
-    "static/js/main.ce7b473e.js"
+    "static/css/main.078e1fce.css",
+    "static/js/main.735f7ea3.js"
   ]
 }
