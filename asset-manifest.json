@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/REACT-Portfolio/static/css/main.078e1fce.css",
-    "main.js": "/REACT-Portfolio/static/js/main.ada72dfa.js",
+    "main.js": "/REACT-Portfolio/static/js/main.2fa09fbc.js",
     "static/js/787.a2cb61a6.chunk.js": "/REACT-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/My Dog Adoption.png": "/REACT-Portfolio/static/media/My Dog Adoption.1dd72ef78b106ee1f3c2.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/REACT-Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/Sigma Cleaning.png": "/REACT-Portfolio/static/media/Sigma Cleaning.15e326771ddfbabc6f5b.png",
+    "static/media/Sigma Cleaning Appointment Scheduler.png": "/REACT-Portfolio/static/media/Sigma Cleaning Appointment Scheduler.15e326771ddfbabc6f5b.png",
     "static/media/README Generator.png": "/REACT-Portfolio/static/media/README Generator.9dfdd44635c023b22baf.png",
     "static/media/fontawesome-webfont.eot": "/REACT-Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/REACT-Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -16,11 +16,11 @@
     "static/media/Express Note Taker.png": "/REACT-Portfolio/static/media/Express Note Taker.7de87694f27732a4515e.png",
     "index.html": "/REACT-Portfolio/index.html",
     "main.078e1fce.css.map": "/REACT-Portfolio/static/css/main.078e1fce.css.map",
-    "main.ada72dfa.js.map": "/REACT-Portfolio/static/js/main.ada72dfa.js.map",
+    "main.2fa09fbc.js.map": "/REACT-Portfolio/static/js/main.2fa09fbc.js.map",
     "787.a2cb61a6.chunk.js.map": "/REACT-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.078e1fce.css",
-    "static/js/main.ada72dfa.js"
+    "static/js/main.2fa09fbc.js"
   ]
 }
