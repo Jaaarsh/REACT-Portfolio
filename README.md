@@ -32,6 +32,9 @@
   ## Test:
   Same as use.
  
+  ##Deployment:
+  https://jaaarsh.github.io/REACT-Portfolio/
+ 
   ## Questions:
   * Username: Jaaarsh
   * Github Account: https://github.com/Jaaarsh
