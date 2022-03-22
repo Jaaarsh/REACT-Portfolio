@@ -4,10 +4,9 @@ function Resume() {
   return (
     <section id="resume">
       <div className="intro">
-      <p className="card">
-        Click Here to Download My <a href="https://docs.google.com/document/d/1uizn1k4UlNgALQJmUNvQvHRqx4wAhqAYM4oFnaAWUH0/edit?usp=sharing" target="_blank">Resume</a>
-        </p>
         <div className="card-skills">
+        <h2>Click Here to Download My <a href="https://docs.google.com/document/d/1uizn1k4UlNgALQJmUNvQvHRqx4wAhqAYM4oFnaAWUH0/edit?usp=sharing" target="_blank">Resume</a></h2>
+        <br/>
         <h3>Front-End Skills</h3>
         <ul>
           <li>HTML</li>
@@ -17,9 +16,6 @@ function Resume() {
           <li>jQuery</li>
           <li>React</li>
         </ul>
-        </div>
-
-        <div className="card-skills">
         <h3>Back-End Skills</h3>
         <ul>
           <li>APIs</li>
