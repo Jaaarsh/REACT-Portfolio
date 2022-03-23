@@ -227,20 +227,7 @@ main {
     color: var(--darker);
   }
   
-  @media only screen and (max-width: 1300px) {
-    nav {
-      position: static;
-      display: block;
-      z-index: 100;
-      margin: 0 10px;
-      font-size: 2rem;
-    }
-    header h1 {
-      display: block;
-      height: 30px;
-    }
-  }
-  @media only screen and (max-width: 900px) {
+  @media screen and (max-width: 960px) {
     nav {
       position: static;
       display: block;
@@ -250,12 +237,51 @@ main {
     }
     header h1 {
       display: block;
+      height: 30px;
+      text-align: center;
+      justify-content: center;
+    }
+  }
+
+  @media only screen and (max-width: 1475px) {
+    nav {
+      position: static;
+      display: block;
+      z-index: 100;
+      margin: 0 10px;
+      font-size: 1.0rem;
+      text-align: center;
+    }
+    header h1 {
+      display: block;
       margin: 5px 10px;
       height: 15px;
       width: 100%;
       text-align: center;
-      font-size: 2.3rem;
+      font-size: 2.6rem;
     }
+
+  }
+
+  @media only screen and (max-width: 768px) {
+    nav {
+      position: static;
+      display: block;
+      z-index: 100;
+      margin: 0 10px;
+      font-size: 1.3rem;
+      text-align: center;
+      justify-content: center;
+    }
+    header h1 {
+      display: block;
+      margin: 5px 10px;
+      height: 15px;
+      width: 100%;
+      text-align: center;
+      font-size: 2.6rem;
+    }
+
   }
 
 /*Seperate tags for the componetns*/
@@ -334,13 +360,13 @@ html,
 
 
 .intro {
-    width: 2000px;
+    width: auto;
     border: 10px solid lightslategrey;
     padding: 50px;
     margin: auto;
 }
 
-.profile img {
+.center-text img {
   position: relative;
   margin-left: auto;
   margin-right: auto;
@@ -388,7 +414,7 @@ header a {
 
 
 header {
-    height: 200px;
+    height: auto;
     position: relative;
     overflow: hidden;
     z-index: 2;
@@ -403,7 +429,7 @@ header h1 {
 nav {
     position: relative;
     font-size: 2.5rem;
-    margin: 30px 20px;
+    margin: auto;
 }
   
 nav a:hover {
@@ -414,7 +440,6 @@ nav li {
     cursor: pointer;
     margin: 0 50px;
 }
-
 
 .navActive {
     color: #799bf6;

@@ -5,7 +5,7 @@ function About() {
 return (
   <section id="aboutMe">
     <div className="intro">
-      <div className="profile">
+      <div className="center-text">
       <h1>
         Welcome to my Portfolio, My name is Joshua Ellis.
       </h1>
